@@ -1,6 +1,16 @@
 pandas
 numpy
+<<<<<<< HEAD
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+jupyter
+ipykernel
+scipy
+=======
 scipy
 python-dotenv
 matplotlib
 seaborn
+>>>>>>> 519e40e112da43c927db43eb5326ddbdf25b1965
