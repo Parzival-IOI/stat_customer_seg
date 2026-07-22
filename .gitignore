@@ -56,3 +56,9 @@ htmlcov/
 .idea/
 *.swp
 *.swo
+
+# Generated data
+data/
+*.db
+*.sqlite
+*.sqlite3
