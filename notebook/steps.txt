@@ -1,5 +1,6 @@
 1. EDA & Select model
 2. Data preprocessing, feature eng
-3. Model evaludation and comparision
-4. Conclusion
-5. Slide
+4. Train
+4. Model evaludation and comparision
+5. Conclusion
+6. Slide
