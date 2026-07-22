@@ -4,3 +4,7 @@ scipy
 python-dotenv
 matplotlib
 seaborn
+scikit-learn
+tensorflow
+jupyter
+ipykernel
